@@ -7,3 +7,4 @@ git clone https://github.com/MrStalkers121/XAttack-Installer
 cd XAttack-Installer
 chmod +x install.sh
 python2 XAttack-Installer.py
+
